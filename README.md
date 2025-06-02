@@ -1,4 +1,4 @@
-Okay, here is the content you provided, formatted as a README.md file.
+
 
 
 # Neurosymbolic Storyteller
